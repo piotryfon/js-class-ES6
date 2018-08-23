@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+.container{
+    width: 60%;
+    margin: auto;
+    border: 1px solid #666;
+    padding: 30px;
+    margin-top: 20px;
+    background: #cde;
+}
+table{
+    background: #cde;
+    border: 1px solid #0000ff;
+    padding: 2px;
+    border-spacing: 0 1px;
+    text-align: left;
+    border-collapse: collapse;
+    width: 90%;
+    margin: auto;
+}
+th{
+    padding: 5px;
+    border: 1px solid #0000ff;
+}
+td{
+    padding: 5px;
+    border: 1px solid #0000ff;
+}
